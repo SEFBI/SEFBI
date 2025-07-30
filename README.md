@@ -1,6 +1,6 @@
 
 
-### 👨‍💻 Lenguajes y Frameworks
+
 <!--  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) -->
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,7 +50,7 @@
   
 </p>-->
 
-### 🗄️ Bases de Datos
+
   <!--  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) -->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -66,7 +66,7 @@
 </p>-->
 
 
-### ☁️ DevOps e Infraestructura
+
 <!--  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -84,7 +84,7 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEdwinFBI&show_icons=true&theme=ambient_gradient&count_private=true" />
@@ -93,7 +93,7 @@
 
 ---
 
-## 🔥 Racha de contribuciones
+
 
 <p align="center">
 
@@ -103,7 +103,6 @@
 
 ---
 
-## 🏆 Trofeos
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SEdwinFBI&theme=onedark&no-frame=true&margin-w=5" />
