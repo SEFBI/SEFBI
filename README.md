@@ -1,6 +1,4 @@
-# 👋 ¡Hola! Soy Edwin Baquiax 
 
-## 🧰 Lenguajes, Frameworks y Herramientas
 
 ### 👨‍💻 Lenguajes y Frameworks
 <!--  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) -->
